@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA!_PRACTICA3_PRINT"/>
+        <attribute name="authors" value="ALEJANDRO JAQUEZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 11:09:37 p. m."/>
+        <attribute name="created" value="QUxFSkFORFJPIEpBUVVFWjtERVNLVE9QLUlUSkRHNjY7MjAyNS0wOC0yNjsxMTowNTo1MCBwLiBtLjszNjgy"/>
+        <attribute name="edited" value="QUxFSkFORFJPIEpBUVVFWjtERVNLVE9QLUlUSkRHNjY7MjAyNS0wOC0yNjsxMTowOTozNyBwLiBtLjsxOzM3OTk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Nombre del estudiante&quot;" newline="True"/>
+            <output expression="&quot;Jeseus Alejandro Jacquez Olivas&quot;" newline="False"/>
+            <output expression="&quot;NO. CONTROL&quot;" newline="True"/>
+            <output expression="&quot;25550427&quot;" newline="False"/>
+            <output expression="&quot;EDAD&quot;" newline="True"/>
+            <output expression="&quot;18&quot;" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>
